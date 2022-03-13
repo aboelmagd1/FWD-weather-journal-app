@@ -1,7 +1,7 @@
 # Weather-Journal App Project
 
 ## Overview
-This project requires to get temp from weather [openweathermap](https://openweathermap.org/api) this project to learn js with [egfwd](https://egfwd.com/) . 
+This project requires to get temp from [openweathermap](https://openweathermap.org/api) this project to learn js with [egfwd](https://egfwd.com/) . 
 
 ## Instructions
 the project based on Web APIs and server 
